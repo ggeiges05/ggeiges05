@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Gabriel, a computer science major at Illinois State University.
+
+I build projects that strengthen my understanding of data structures, algorithms, and how systems work under the hood.  
+Most of my work focuses on practical implementations and writing efficient, well-structured code.
 <!--
 **ggeiges05/ggeiges05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
